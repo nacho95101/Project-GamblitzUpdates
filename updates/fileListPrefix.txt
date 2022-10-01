@@ -1,0 +1,1 @@
+https://github.com/nacho95101/Project-GamblitzUpdates/releases/download/v%s/filelist.txt
